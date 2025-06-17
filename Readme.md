@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ishanextreme-a2a-mcp-example-badge.png)](https://mseep.ai/app/ishanextreme-a2a-mcp-example)
+
 
 # 🧠 LLM-Powered Terminal Assistant using A2A & MCP
 
